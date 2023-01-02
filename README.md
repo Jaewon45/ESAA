@@ -1,6 +1,6 @@
 # ESAA_2022
 
-# Summary
+# Description
 This is self-studying records in ESAA (Ewha Statistic Analysis Association), based on 3 books and some examples, exercises, and mini-projects within a team.
 The books are as below:
 1. 파이썬 머신러닝 완벽 가이드 (Python Machine-Learning Definitive Guide, http://www.yes24.com/Product/Goods/108824557)
@@ -9,9 +9,9 @@ The books are as below:
 4. 파이썬 딥러닝 텐서플로 (Python Deep-Learning Tensorflow, http://www.yes24.com/Product/Goods/102603640)
 
 
-# Contents of Studying
+## Contents of Materials
 
-## 1. 파이썬 머신러닝 완벽 가이드 (Python Machine-Learning Definitive Guide)
+### 1. 파이썬 머신러닝 완벽 가이드 (Python Machine-Learning Definitive Guide)
 
 1장: 파이썬 기반의 머신러닝과 생태계 이해
 
@@ -102,7 +102,7 @@ The books are as below:
 
 
 
-## 2. Do it! 데이터 분석을 위한 판다스 입문 (Pandas for Everyone: Python Data Analysis)
+### 2. Do it! 데이터 분석을 위한 판다스 입문 (Pandas for Everyone: Python Data Analysis)
 
 
 Chapter 3. Plotting Basics   
@@ -141,7 +141,7 @@ Chapter 12. Dates and Times
 12.13 Arrow for Better Dates and Times      
 
 
-## 3. 핸즈온 머신러닝 (Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow)
+### 3. 핸즈온 머신러닝 (Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow)
 
 I. The Fundamentals of Machine Learning
 Ch 1. The Machine Learning Landscape  
@@ -154,7 +154,7 @@ Ch 7. Ensemble Learning and Random Forests
 Ch 8. Dimensionality Reduction  
 Ch 9. Unsupervised Learning Techniques  
 
-## 4. 파이썬 딥러닝 텐서플로 (Python Deep-Learning Tensorflow)
+### 4. 파이썬 딥러닝 텐서플로 (Python Deep-Learning Tensorflow)
 
 PART 03 케라스(Keras)  
 01 딥러닝 준비  
@@ -177,5 +177,3 @@ PART 04 합성곱 신경망(CNN)
 06 객체 탐지(Object Detection)  
 07 이미지 분할(Segmentation)  
 
-
-# Description on mini Projects
