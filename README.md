@@ -9,7 +9,7 @@ The books are as below:
 4. 파이썬 딥러닝 텐서플로 (Python Deep-Learning Tensorflow, http://www.yes24.com/Product/Goods/102603640)
 
 
-# Contents
+# Contents of Studying
 
 ## 1. 파이썬 머신러닝 완벽 가이드 (Python Machine-Learning Definitive Guide)
 
@@ -176,3 +176,6 @@ PART 04 합성곱 신경망(CNN)
 05 개/고양이 분류  
 06 객체 탐지(Object Detection)  
 07 이미지 분할(Segmentation)  
+
+
+# Description on mini Projects
